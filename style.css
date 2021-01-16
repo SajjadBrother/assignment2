@@ -1,0 +1,48 @@
+.navbar img{
+    height: 60px;
+}
+.footer-link a{
+    color: black;
+    font-weight: 700;
+    padding: 2em;
+}
+button img{
+    height: 40px;
+}
+.firstsection h1{
+    font-size: 70px;
+}
+
+.section1{
+       display: flex;
+}
+.nikereact{
+    margin-top: 130px;
+}
+.nikereact>h1{
+    font-weight: 700;
+    font-size: 70px;
+}
+.panda-card{
+    background-color: white;
+    border: 0;
+}
+.panda-card-footer{
+    background-color: white;
+    border: 0ch;
+}
+.last-section-div{
+    display: flex;
+}
+.last-section-div img{
+    height: 40px;
+    width: 40px;
+}
+footer{
+    margin-top: 300px;
+}
+.contact{
+    font-size: 50px;
+    
+    text-shadow: 2px 2px 5px #ff0000;
+}
